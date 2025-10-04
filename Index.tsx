@@ -71,7 +71,7 @@ const Index = () => {
                     Most men settle for average lives, average results, average everything.
                   </p>
                   <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-                    You're here because you know you're meant for more. Hustle Logic by Successor Tariq will show you exactly how to claim it.
+                    You're here because you know you are meant for more. Successor Tariq will show you exactly how to BECOME UNSTOPPABLE
                   </p>
                 </div>
                 
